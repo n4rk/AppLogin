@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="glsid">GLSID</string>
+    <string name="txt2022">2022</string>
+    <string name="title">Welcome to the GLSID App</string>
+    <string name="desc">You can login by filling the form below :</string>
+    <string name="userInput">Username</string>
+    <string name="pwdInput">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="pwdForgot">Forgot your password ? Click here</string>
+
+</resources>
