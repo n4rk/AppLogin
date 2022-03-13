@@ -1,1 +1,1 @@
-"# LoginApp" 
+I made this simple login application using Android Studio, it shows users a simple login form that they should fill to move to the next activity that shows the informations they passed in their login form.
